@@ -1,0 +1,10 @@
+.form-control{
+    border-radius: 1px;
+    padding: 20px 25px;
+    width: 100%;
+}
+
+.form-control:focus{
+    box-shadow: none;
+    border-color: #ccc;
+}
